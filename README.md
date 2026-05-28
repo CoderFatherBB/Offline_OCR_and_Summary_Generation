@@ -21,3 +21,7 @@ The system integrates state-of-the-art vision models (like TrOCR) with NLP pipel
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📸 Screenshots & Examples
+- **Output** : ![alt text](<WhatsApp Image 2024-10-19 at 15.32.09_38a7af06.jpg>)
+- **Example Runs** : ![alt text](<WhatsApp Image 2024-10-19 at 15.27.14_57278fb0.jpg>) ![alt text](<WhatsApp Image 2024-10-19 at 15.27.15_3802d5f3.jpg>)
