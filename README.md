@@ -1,4 +1,22 @@
-# L&T NEUROHACK - Silver Problem Statement Solution
+<div align="center">
+  <h1 align="center">Offline_OCR_and_Summary_Generation</h1>
+  <p align="center">
+    <strong>Offline Text Summarization Tool for Handwritten and Digital Texts.</strong>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/github/license/CoderFatherBB/Offline_OCR_and_Summary_Generation?style=flat-square&color=007ec6" alt="License">
+    <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Offline_OCR_and_Summary_Generation?style=flat-square&color=007ec6" alt="Repo Size">
+    <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Offline_OCR_and_Summary_Generation?style=flat-square&color=007ec6" alt="Last Commit">
+  </p>
+</div>
+
+---
+
+## 📖 Overview
+
+Welcome to the **Offline_OCR_and_Summary_Generation** repository. Offline Text Summarization Tool for Handwritten and Digital Texts.
+
+### Existing Documentation\n\n# L&T NEUROHACK - Silver Problem Statement Solution
 
 ## Offline Text Summarization Tool for Handwritten and Digital Texts
 
@@ -90,4 +108,46 @@ We thank L&T for organizing the NEUROHACK challenge and providing this opportuni
 
 ---
 
-For more information about the L&T NEUROHACK challenge, visit [L&T NEUROHACK Official Website](https://unstop.com/competitions/lt-neurohack-coep-mindspark-1177482?lb=NNlJdAID&fbclid=PAZXh0bgNhZW0CMTEAAabGJTa5pNxRyIzkXewlq3kVGnqpax2xh61YLwJ1QxBnCeNF_kHaOo0QtyI_aem_pgVH7177cRA2dyjworV-wQ).
+For more information about the L&T NEUROHACK challenge, visit [L&T NEUROHACK Official Website](https://unstop.com/competitions/lt-neurohack-coep-mindspark-1177482?lb=NNlJdAID&fbclid=PAZXh0bgNhZW0CMTEAAabGJTa5pNxRyIzkXewlq3kVGnqpax2xh61YLwJ1QxBnCeNF_kHaOo0QtyI_aem_pgVH7177cRA2dyjworV-wQ).\n
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the necessary environment setup to run or build the project. Depending on the repository's technology stack, you may need:
+- Standard language compilers/interpreters (e.g., Python, C++, Java).
+- Required frameworks and libraries as per the codebase.
+
+### Installation & Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/CoderFatherBB/Offline_OCR_and_Summary_Generation.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Offline_OCR_and_Summary_Generation
+   ```
+3. Run or execute the relevant files as per the language standards.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CoderFatherBB/Offline_OCR_and_Summary_Generation/issues).
+
+---
+
+## 👤 Author
+
+**Bhavin Baldota**
+
+- LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
+- GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
+
+---
+<div align="center">
+  <sub>Made with ❤️ by Bhavin Baldota</sub>
+</div>
