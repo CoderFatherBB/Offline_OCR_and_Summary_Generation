@@ -1,27 +1,45 @@
 <div align="center">
-  <h1 align="center">Offline OCR & NLP Summary Generator 📄</h1>
-  <p align="center"><strong>Deep Learning Text Extraction and Summarization</strong></p>
+  <h1>Offline OCR And Summary Generation</h1>
+  <p><strong>Offline OCR workflow for handwritten/digital text extraction with example outputs and a Flask app.</strong></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  </p>
+  <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Offline_OCR_and_Summary_Generation?style=flat-square&color=007ec6" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Offline_OCR_and_Summary_Generation?style=flat-square&color=007ec6" alt="Last Commit">
+</p>
 </div>
 
-## 📖 Overview
-An advanced, fully-offline pipeline capable of extracting text from complex handwritten and digital documents using optical character recognition, and subsequently generating concise, highly-accurate summaries utilizing Transformer architectures.
+## About
 
-## ✨ Core Features
-- **High-Accuracy OCR**: Custom-trained models to handle cursive handwriting and degraded digital text.
-- **Transformer-based Summarization**: Extracts key entities and generates human-readable summaries instantly.
-- **Fully Offline**: Designed to operate in air-gapped environments for strict data privacy.
+This repository contains an offline OCR and summarization project with a Flask application, handwritten text extraction model files, datasets links, tests, and example outputs for multiple input formats.
 
-## 🛠️ Architecture
-The system integrates state-of-the-art vision models (like TrOCR) with NLP pipelines (BART/T5) served via a lightweight Flask backend, allowing rapid inference without cloud dependencies.
+## Repository Map
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- `Flask App/`: app server, templates, static files, and Tesseract trained data.
+- `Handwritten Text Extraction Model/`: model code, config, training, and testing notebooks.
+- `Testing OCR/`: OCR test image and notebook.
+- `Examples/`: sample inputs and generated outputs for PDF, handwritten image, XML, JSON, and text.
+- `Datasets/`: dataset link notes.
 
-## 📸 Screenshots & Examples
-- **Output** : ![alt text](<WhatsApp Image 2024-10-19 at 15.32.09_38a7af06.jpg>)
-- **Example Runs** : ![alt text](<WhatsApp Image 2024-10-19 at 15.27.14_57278fb0.jpg>) ![alt text](<WhatsApp Image 2024-10-19 at 15.27.15_3802d5f3.jpg>)
+## Existing Results
+
+- **Output**: ![OCR output](<WhatsApp Image 2024-10-19 at 15.32.09_38a7af06.jpg>)
+- **Example runs**: ![OCR example 1](<WhatsApp Image 2024-10-19 at 15.27.14_57278fb0.jpg>) ![OCR example 2](<WhatsApp Image 2024-10-19 at 15.27.15_3802d5f3.jpg>)
+
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/CoderFatherBB/Offline_OCR_and_Summary_Generation.git
+cd Offline_OCR_and_Summary_Generation
+```
+
+Open the folder or notebook you want to explore. Most directories are self-contained, so start from the local `README.md`, source file, notebook, or project folder for that topic.
+
+
+## Author
+
+**Bhavin Baldota**
+
+- LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
+- GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
