@@ -1,44 +1,26 @@
-<div align="center">
-  <h1 align="center">Flask App</h1>
-  <p align="center">
-    <strong>Project from the <a href="https://github.com/CoderFatherBB/Offline_OCR_and_Summary_Generation">Offline_OCR_and_Summary_Generation</a> Repository</strong>
-  </p>
-</div>
+# Flask App
 
----
+Part of [`Offline_OCR_and_Summary_Generation`](https://github.com/CoderFatherBB/Offline_OCR_and_Summary_Generation) at `Flask App`.
 
-## 📖 Overview
+## About
 
-Welcome to the **Flask App** project! This directory contains the specific source code, resources, and implementation details for this project.
+`Flask App` contains training notebooks, scripts, outputs, or supporting files for this project area.
 
+## Contents
 
+- `.idea/`: subfolder.
+- `static/`: subfolder.
+- `templates/`: subfolder.
+- `app.py`: Python script.
+- `eng.traineddata`: project file.
 
----
+## Use
 
-## 🚀 Getting Started
+Run the relevant Python script from this folder after checking any required inputs, datasets, or environment variables.
 
-### Prerequisites
-Make sure you have the necessary environment setup to run or build this project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
-
-### Running the Code
-1. Ensure you are in the project directory:
-   ```bash
-   cd "Flask App"
-   ```
-2. Execute the main scripts or compile the source code according to the language standards.
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
